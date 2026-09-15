@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/index.html
+!/NCU_IR_Field_Catalog_ZH.html
+!/NCU_IR_Field_Catalog_EN.html
+!/.nojekyll
+!/LICENSE-STATICRYPT.txt
